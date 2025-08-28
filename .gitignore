@@ -41,5 +41,3 @@ build/
 # Model files (opsional, kalau besar)
 *.onnx
 
-# Local run scripts
-run_gui.sh
