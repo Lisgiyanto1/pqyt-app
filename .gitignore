@@ -1,0 +1,45 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# Output directory
+output/
+*.log
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Qt Designer related
+*.qrc
+*.bak
+*.qmlc
+*.pyc
+
+# Build/compiled files
+dist/
+build/
+*.spec
+
+# Jupyter/Colab
+.ipynb_checkpoints/
+*.ipynb
+
+# Model files (opsional, kalau besar)
+*.onnx
+
+# Local run scripts
+run_gui.sh
